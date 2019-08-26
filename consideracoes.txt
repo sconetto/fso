@@ -1,0 +1,16 @@
+Provas:
+  - P1 (20/Set)
+  - P2 (21/Out)
+  - P3 (25/Nov)
+
+"Moodle":
+  www.brunoribas.com.br
+
+Nota:
+  NF: [((P1+P2+P3) / 3) * 0.6] + [T1 * 0.3] + [L * 0.1]
+
+Contato:
+  bruno.ribas@unb.br
+
+Atendimento:
+  Seg e Sex: 10h às 12h
