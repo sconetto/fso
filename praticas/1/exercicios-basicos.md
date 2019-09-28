@@ -39,5 +39,3 @@ alterações que o usuário possa fazer.
 6. Resolva http://www.dei.isep.ipp.pt/~orlando/so2/processos.htm
 
 7. Familiarize-se com as chamdas: execve(2), clone(2)
-
-##

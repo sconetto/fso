@@ -73,5 +73,5 @@ mv *.bak *% *~ ~/.trash
 10. Com o problema definido no exercício anterior, você agora deve comprimir (através de bzip2(1)) todos os arquivos do diretório ~/.trash cujo tamanho seja maior que 2M bytes.
 
 ```bash
-bzip2 ./trash/*
+find ~/.trash -type f -size +2M | bzip2
 ```
